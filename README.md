@@ -41,7 +41,7 @@
   <br/>
 </div>
 
-![Snake animation](https://github.com/GbrlSouza/GbrlSouza/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/GbrlSouza/GbrlSouza/blob/output/github-contribution-grid-snake.svg)
 
 ![snake gif](https://github.com/GbrlSouza/GbrlSouza/blob/output/github-contribution-grid-snake.gif)
 
