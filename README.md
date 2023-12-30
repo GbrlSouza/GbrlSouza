@@ -41,10 +41,4 @@
   <br/>
 </div>
 
-![Snake animation](https://github.com/GbrlSouza/GbrlSouza/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GbrlSouza&repo=GbrlSouza&theme=dark)](https://github.com/GbrlSouza/GbrlSouza)
