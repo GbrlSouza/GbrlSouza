@@ -62,7 +62,7 @@
 <br></div>
 
 <div align="center" style="display: inline_block"><h3>Contact me</h3><br/>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>
+<a href="https://gbrlsouza.github.io/Portfolio-Gabriel-Souza/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/gabriel-costa-de-souza-066486230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://discordapp.com/users/gbrl_019" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
 <a href="https://instagram.com/web.gbrl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
