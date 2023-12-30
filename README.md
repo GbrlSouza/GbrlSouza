@@ -40,3 +40,7 @@
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <br/>
 </div>
+
+<div>
+  ![snake gif](https://github.com/GbrlSouza/GbrlSouza/blob/output/github-contribution-grid-snake.gif)
+</div>
