@@ -16,3 +16,5 @@
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GbrlSouza&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GbrlSouza&langs_count=8)
