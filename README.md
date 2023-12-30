@@ -36,5 +36,5 @@
   <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GbrlSouza&langs_count=8)
