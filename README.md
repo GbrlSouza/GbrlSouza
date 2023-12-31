@@ -53,11 +53,11 @@
 <br></div>
 
 <div align="center" style="display: inline_block"><h3>Contact me</h3><br/>
-<a href="https://gbrlsouza.github.io/Portfolio-Gabriel-Souza/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/gabriel-costa-de-souza-066486230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://discordapp.com/users/gbrl_019" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
-<a href="https://instagram.com/web.gbrl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://wa.me/5519989680054?text=ol%C3%A1%21+vim+pelo+GitHub%21+podemos+conversar%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+<a href="https://gbrlsouza.github.io/Portfolio-Gabriel-Souza/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gabriel-costa-de-souza-066486230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://discordapp.com/users/gbrl_019" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://instagram.com/web.gbrl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/5519989680054?text=ol%C3%A1%21+vim+pelo+GitHub%21+podemos+conversar%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
