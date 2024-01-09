@@ -37,7 +37,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![GitKraken](https://img.shields.io/badge/GitKraken-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![GitKraken](https://img.shields.io/badge/GitKraken-005C84?style=for-the-badge&logo=gitkraken&logoColor=white)&nbsp;
 
 ### UX | UI | Post 🎨
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
