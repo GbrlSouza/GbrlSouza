@@ -7,6 +7,11 @@
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GbrlSouza&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GbrlSouza&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
 | ----------- | ----------- |
 
+##
+<div align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=GbrlSouza&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
+
 ### Principais Competências:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
@@ -57,7 +62,4 @@
 <a href="https://discordapp.com/users/gbrl_019" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://wa.me/5519989680054?text=ol%C3%A1%21+vim+pelo+GitHub%21+podemos+conversar%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-##
-<div align="center" >
-  <img src="https://github-profile-trophy.vercel.app/?username=GbrlSouza&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
