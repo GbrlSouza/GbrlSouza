@@ -10,10 +10,13 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GbrlSouza&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GbrlSouza&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<div align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=GbrlSouza&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
+
+<div align="center" >
   <img src="https://github.com/GbrlSouza/GbrlSouza/blob/main/perfil.png" width="20%" />
-</p> 
+</div> 
 
 ### Principais Competências:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
