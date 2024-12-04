@@ -54,6 +54,7 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![SyncFusion](https://img.shields.io/badge/syncfusion-1428A0?style=for-the-badge&logo=openjdk&logoColor=ED8B00)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
