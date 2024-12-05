@@ -14,9 +14,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GbrlSouza&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
 
-<div align="center" >
+<!--div align="center" >
   <img src="https://github.com/GbrlSouza/GbrlSouza/blob/main/perfil.png" width="20%" />
-</div> 
+</div--> 
 
 ### Principais Competências:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
