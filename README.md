@@ -9,7 +9,6 @@
 
 <div align="center" >
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,cypress,vscode,react,python,php,nodejs,vue,bootstrap,javascript,typescript,html,css"/> </a>
-  <br /> <br />
 </div>
 
 <!--div align="center" > <img src="https://github-profile-trophy.vercel.app/?username=GbrlSouza&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> </div-->
