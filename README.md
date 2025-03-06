@@ -11,7 +11,7 @@
   <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,cypress,vscode,react,python,php,nodejs,vue,bootstrap,javascript,typescript,html,css"/> </a>
 </div>
 
-<!--div align="center" > <img src="https://github-profile-trophy.vercel.app/?username=GbrlSouza&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> </div-->
+<div align="center" > <img src="https://github-profile-trophy.vercel.app/?username=GbrlSouza&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> </div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GbrlSouza/GbrlSouza/output/github-contribution-grid-snake-dark.svg">
@@ -20,4 +20,5 @@
 </picture>
 
 <br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
