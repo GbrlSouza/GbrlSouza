@@ -12,12 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=GbrlSouza&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/GbrlSouza?label=Seguidores&style=flat-square" />
   <img src="https://img.shields.io/github/stars/GbrlSouza?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/GbrlSouza/GbrlSouza?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hacktoberfest-Participante-orange?logo=hacktoberfest&style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-Ativado-blue?logo=github&style=flat-square" />
     
   <br />
   
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-Ativado-blue?logo=github&style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-Automatizando-success?logo=github-actions&style=flat-square" />
   <img src="https://img.shields.io/badge/Pull%20Requests-Contribuidor-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Discussions-Ativo-purple?style=flat-square" />
