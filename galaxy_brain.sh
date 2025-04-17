@@ -1,3 +1,5 @@
+#!/bin/bash
+
 REPO_NAME="teste-galaxy-brain"
 DISCUSSION_TITLE="Como fazer um loop infinito bonito em JavaScript?"
 DISCUSSION_BODY="Tô tentando escrever um loop infinito com estilo. Alguma sugestão?"
