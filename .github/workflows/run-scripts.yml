@@ -1,0 +1,25 @@
+name: Run Custom Badges Scripts
+
+on:
+  push:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Give permission to scripts
+        run: chmod +x galaxy_brain.sh starstruck.sh
+
+      - name: Execute galaxy_brain.sh
+        run: ./galaxy_brain.sh
+
+      - name: Execute starstruck.sh
+        run: ./starstruck.sh
