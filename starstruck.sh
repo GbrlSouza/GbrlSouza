@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "===> Dando stars em 16 repositórios top..."
 
 REPOS=(
