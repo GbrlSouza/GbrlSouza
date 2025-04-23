@@ -20,13 +20,15 @@
   - ⚡ Curiosidade: Adoro deixar tudo visualmente bonito, com <strong>animações, gradientes e responsividade de respeito</strong>.<br />
 
   <br />
-
-  <img src="https://komarev.com/ghpvc/?username=GbrlSouza&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/GbrlSouza?label=Seguidores&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/GbrlSouza?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-Automatizando-success?logo=github-actions&style=flat-square" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-Contribuidor-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Discussions-Ativo-purple?style=flat-square" />
+  
+  <div align="center" >
+    <img src="https://komarev.com/ghpvc/?username=GbrlSouza&style=flat-square" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/GbrlSouza?label=Seguidores&style=flat-square" />
+    <img src="https://img.shields.io/github/stars/GbrlSouza?style=flat-square" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-Automatizando-success?logo=github-actions&style=flat-square" />
+    <img src="https://img.shields.io/badge/Pull%20Requests-Contribuidor-green?style=flat-square" />
+    <img src="https://img.shields.io/badge/Discussions-Ativo-purple?style=flat-square" />
+  </div>
 </details>
 
 <div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,cypress,vscode,php,wordpress,bootstrap,vue,javascript,typescript,html,css,scss"/> </a></div>
