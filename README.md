@@ -11,8 +11,8 @@
   <summary><strong>📌 Informações Importantes</strong></summary>
   <br />
   
-  - 🔭 Atualmente trabalhando com: <strong>Testes Automatizados (Cypress)</strong> e <strong>Front-end (React/Vue + Bootstrap)</strong><br />
-  - 🌱 Aprendendo cada vez mais sobre: <strong>TypeScript</strong>, <strong>Frappe</strong>, e <strong>CI/CD com GitHub Actions</strong><br />
+  - 🔭 Trabalhando com: <strong>Testes Automatizados (Cypress)</strong> e <strong>Front-end (Vue + Bootstrap)</strong><br />
+  - 🌱 Aprendendo cada vez mais sobre: <strong>TypeScript/React + React Native</strong>, <strong>Frappe</strong>, e <strong>CI/CD com GitHub Actions</strong><br />
   - 💼 Já desenvolvi: Apps de mensagens, dashboards de agendamento, sistemas de condomínio, e até apps educacionais!<br />
   - 💡 Projetos em andamento: <code>OlimpiaSales</code>, <code>CondoMiro</code>, <code>HelpHair</code>, <code>InfoGeo</code>, entre outros.<br />
   - 💬 Me chama pra conversar sobre: <strong>QA</strong>, <strong>automação</strong>, <strong>componentização</strong>, <strong>React Native</strong>, ou quaisquer projetos inovadores.<br />
