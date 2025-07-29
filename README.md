@@ -41,6 +41,8 @@
     <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/deploy-de-sexta.png" alt="Deploy de Sexta" width="100px" />
     <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/bluetooth-hacker.png" alt="Bluetooth Hacker" width="100px" />
     <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/barbeiro-digital.png" alt="Barbeiro Digital" width="100px" />
+    <br />
+    <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/tijolinho-de-framework.png" alt="Tijolinho de Framework" width="100px" />
     <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/oraculo-do-cypress.png" alt="Oráculo do Cypress" width="100px" />
     <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/frontend-caprichoso.png" alt="Frontend Caprichoso" width="100px" />
     <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/truqueiro-do-codigo.png" alt="Truqueiro do Código" width="100px" />
