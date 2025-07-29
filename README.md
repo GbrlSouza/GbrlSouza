@@ -29,6 +29,22 @@
     <img src="https://img.shields.io/badge/Pull%20Requests-Contribuidor-green?style=flat-square" />
     <img src="https://img.shields.io/badge/Discussions-Ativo-purple?style=flat-square" />
   </div>
+
+  <br />
+</details>
+
+<details>
+ <summary><strong>🎖 Minhas badges</strong></summary>
+
+  <div align="center" >
+    <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/sabio-da-serpente.png" alt="Sábio da Serpente" width="100px" />
+    <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/deploy-de-sexta.png" alt="Deploy de Sexta" width="100px" />
+    <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/bluetooth-hacker.png" alt="Bluetooth Hacker" width="100px" />
+    <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/barbeiro-digital.png" alt="Barbeiro Digital" width="100px" />
+    <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/oraculo-do-cypress.png" alt="Oráculo do Cypress" width="100px" />
+    <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/frontend-caprichoso.png" alt="Frontend Caprichoso" width="100px" />
+    <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/truqueiro-do-codigo.png" alt="Truqueiro do Código" width="100px" />
+  </div>
 </details>
 
 <div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,cypress,vscode,php,wordpress,bootstrap,vue,javascript,typescript,html,css,scss"/> </a></div>
