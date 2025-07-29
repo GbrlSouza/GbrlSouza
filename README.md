@@ -62,7 +62,7 @@
 <div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,cypress,vscode,php,wordpress,bootstrap,vue,javascript,typescript,html,css,scss"/> </a></div>
 
 <div align="center" style="display: inline_block"><br >
-<a href="http://gabrielsouza-portifolio.lovestoblog.com/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="http://gabrielcostadesouza.lovestoblog.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gabriel-costa-de-souza-066486230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://discordapp.com/users/gbrl_019" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
