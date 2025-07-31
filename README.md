@@ -15,7 +15,7 @@
   <a href="https://discordapp.com/users/gbrl_019" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
-<hr />
+<br />
 
 <details>
   <summary><strong>📌 Informações Importantes</strong></summary>
@@ -28,25 +28,6 @@
   - 💬 Me chama pra conversar sobre: <strong>QA</strong>, <strong>automação</strong>, <strong>componentização</strong>, <strong>React Native</strong>, ou quaisquer projetos inovadores.<br />
   - 🤝 Aberto a colaborações com devs, QAs e designers em projetos criativos.<br />
   - ⚡ Curiosidade: Adoro deixar tudo visualmente bonito, com <strong>animações, gradientes e responsividade de respeito</strong>.<br />
-</details>
-
-<hr />
-
-<details>
-  <summary><strong>🎖 Minhas badges</strong></summary>
-
-  <div align="center" >
-    <br />
-      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/sabio-da-serpente.png" alt="Sábio da Serpente" width="100px" />
-      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/deploy-de-sexta.png" alt="Deploy de Sexta" width="100px" />
-      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/bluetooth-hacker.png" alt="Bluetooth Hacker" width="100px" />
-      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/barbeiro-digital.png" alt="Barbeiro Digital" width="100px" />
-      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/tijolinho-de-framework.png" alt="Tijolinho de Framework" width="100px" />
-      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/oraculo-do-cypress.png" alt="Oráculo do Cypress" width="100px" />
-      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/frontend-caprichoso.png" alt="Frontend Caprichoso" width="100px" />
-      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/truqueiro-do-codigo.png" alt="Truqueiro do Código" width="100px" />
-    <br />
-  </div>
 </details>
 
 <hr />
@@ -73,5 +54,22 @@
 </details>
 
 <hr />
+
+<details>
+  <summary><strong>🎖 Minhas badges</strong></summary>
+
+  <div align="center" >
+    <br />
+      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/sabio-da-serpente.png" alt="Sábio da Serpente" width="100px" />
+      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/deploy-de-sexta.png" alt="Deploy de Sexta" width="100px" />
+      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/bluetooth-hacker.png" alt="Bluetooth Hacker" width="100px" />
+      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/barbeiro-digital.png" alt="Barbeiro Digital" width="100px" />
+      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/tijolinho-de-framework.png" alt="Tijolinho de Framework" width="100px" />
+      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/oraculo-do-cypress.png" alt="Oráculo do Cypress" width="100px" />
+      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/frontend-caprichoso.png" alt="Frontend Caprichoso" width="100px" />
+      <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/truqueiro-do-codigo.png" alt="Truqueiro do Código" width="100px" />
+    <br />
+  </div>
+</details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
