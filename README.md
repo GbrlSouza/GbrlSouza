@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+...+Meu+nome+é+Gabriel;Dev+front-end+e+Analista+de+QA;Sou+de+Campinas,+São+Paulo,+Brasil;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
 
-<div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,cypress,vscode,php,python,wordpress,bootstrap,vue,javascript,typescript,html,css,scss"/> </a></div>
+<div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=bootstrap,vue,javascript,typescript,html,css,scss"/> </a></div>
+<div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,cypress,vscode,php,python,wordpress"/> </a></div>
 
 <div align="center" style="display: inline_block"><br />
   <a href="http://gabrielcostadesouza.lovestoblog.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
