@@ -14,7 +14,7 @@
 <br />
 
 <details>
-  <summary><strong>🔄 traductor | Translate</strong></summary>
+  <summary><strong>🔄 Traductor | Translate</strong></summary>
   <br />
   <div align="center">
     
