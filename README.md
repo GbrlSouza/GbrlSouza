@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Sou+Gabriel;Dev+front-end+e+Analista+de+QA;De+Campinas,+São+Paulo,+Brasil;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=true&width=1000&lines=Olá!+Sou+Gabriel;Dev+front-end+e+Analista+de+QA;De+Campinas,+São+Paulo,+Brasil;Sejam+Bem-vindos!+:%29)](https://git.io/typing-svg)
 
-<div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,scss,bootstrap,vue,vuetify,pinia,cs,cpp"/> </a></div>
-<div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=wordpress,vscode,visualstudio,git,github,vercel,codepen,cypress,php,python,mysql"/> </a></div>
+<div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,bootstrap,tailwind,vue,vscode,visualstudio,figma"/> </a></div>
+<div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vercel,codepen,cypress,php,python,cpp,cs,mysql,wordpress"/> </a></div>
 
 <div align="center" style="display: inline_block"><br />
   <a href="http://gabrielcostadesouza.lovestoblog.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
@@ -14,7 +14,20 @@
 <br />
 
 <details>
-  <summary><strong>📌 Informações Importantes</strong></summary>
+  <summary><strong>🔄 traductor | Translate</strong></summary>
+  <br />
+  <div align="center">
+    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=true&width=1000&lines=Hola!+Soy+Gabriel;Desarrollador+front-end+y+Analista+de+QA;De+Campinas,+S%C3%A3o+Paulo,+Brasil;Bienvenidos!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Gabriel;Front-end+Dev+and+QA+Analyst;From+Campinas,+S%C3%A3o+Paulo,+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
+  
+  </div>
+</details>
+
+<hr />
+
+<details>
+  <summary><strong>📌 Informações Adicionais</strong></summary>
   <br />
   <div align="center">  
     <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=GbrlSouza&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Costa de Souza github stats" /> 
