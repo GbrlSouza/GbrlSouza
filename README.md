@@ -30,7 +30,7 @@
   <br />
   <div align="center">  
     <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=GbrlSouza&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Costa de Souza github stats" /> 
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GbrlSouza&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&include_all_commits=true&hide_title=false&layout=compact&card_width=320&langs_count=10&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&username=GbrlSouza" alt="Gabriel Costa de Souza github languages graph" />
   </div>
   
   - 🔭 Trabalhando com: <strong>Testes Automatizados</strong> e <strong>Front-end</strong><br />
