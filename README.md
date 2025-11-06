@@ -26,7 +26,7 @@
 <hr />
 
 <details>
-  <summary><strong>📊 Status em Gráficos</strong></summary>
+  <summary><strong>📊 Status to View</strong></summary>
   <br />
   <div align="center">  
     <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=GbrlSouza&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Costa de Souza github stats" /> 
