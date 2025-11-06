@@ -53,6 +53,14 @@
 <details>
   <summary><strong>📖 Conquistas</strong></summary>
   <br />
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=GbrlSouza&style=flat-square" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/GbrlSouza?label=Seguidores&style=flat-square" />
+    <img src="https://img.shields.io/github/stars/GbrlSouza?style=flat-square" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-Automatizando-success?logo=github-actions&style=flat-square" />
+    <img src="https://img.shields.io/badge/Pull%20Requests-Contribuidor-green?style=flat-square" />
+    <img src="https://img.shields.io/badge/Discussions-Ativo-purple?style=flat-square" />
+  </div>
   <div align="center" >
     <div align="center" > <br /> <img src="https://github-profile-trophy.vercel.app/?username=GbrlSouza&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> </div>
 </details>
@@ -61,15 +69,7 @@
 
 <details>
   <summary><strong>🏆 Histórico</strong></summary>
-    <br />
-    <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=GbrlSouza&style=flat-square" alt="profile views" />
-      <img src="https://img.shields.io/github/followers/GbrlSouza?label=Seguidores&style=flat-square" />
-      <img src="https://img.shields.io/github/stars/GbrlSouza?style=flat-square" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-Automatizando-success?logo=github-actions&style=flat-square" />
-      <img src="https://img.shields.io/badge/Pull%20Requests-Contribuidor-green?style=flat-square" />
-      <img src="https://img.shields.io/badge/Discussions-Ativo-purple?style=flat-square" />
-    </div>
+  <div align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GbrlSouza/GbrlSouza/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GbrlSouza/GbrlSouza/output/github-contribution-grid-snake-dark.svg">
