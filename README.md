@@ -26,15 +26,21 @@
 <hr />
 
 <details>
-  <summary><strong>📌 Informações Adicionais</strong></summary>
+  <summary><strong>📊 Status em Gráficos</strong></summary>
   <br />
   <div align="center">  
     <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=GbrlSouza&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Costa de Souza github stats" /> 
     <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&include_all_commits=true&hide_title=false&layout=compact&card_width=320&langs_count=10&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&username=GbrlSouza" alt="Gabriel Costa de Souza github languages graph" />
   </div>
-  
-  - 🔭 Trabalhando com: <strong>Testes Automatizados</strong> e <strong>Front-end</strong><br />
-  - 🌱 Aprendendo cada vez mais sobre: <strong>TypeScript/React + React Native</strong>, <strong>Frappe</strong>, e <strong>CI/CD com GitHub Actions</strong><br />
+</details>
+
+<hr />
+
+<details>
+  <summary><strong>📌 Informações Adicionais</strong></summary>
+  <br />
+  - 🔭 Trabalhando com: <strong>Full Stack</strong><br />
+  - 🌱 Aprendendo cada vez mais sobre: <strong>Python</strong>, <strong>Cypress.io</strong>, <strong>TypeScript/React + React Native</strong>, <strong>Frappe</strong>, e <strong>CI/CD com GitHub Actions</strong><br />
   - 💼 Já desenvolvi: Apps de mensagens, dashboards de agendamento, sistemas de condomínio, e até apps educacionais!<br />
   - 💡 Projetos em andamento: <code>OlimpiaSales</code>, <code>CondoManager</code>, <code>HelpHair</code>, <code>InfoGeo</code>, entre outros.<br />
   - 💬 Me chama pra conversar sobre: <strong>QA</strong>, <strong>automação</strong>, <strong>componentização</strong>, <strong>React Native</strong>, ou quaisquer projetos inovadores.<br />
