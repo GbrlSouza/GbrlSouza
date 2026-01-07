@@ -12,7 +12,7 @@
 
 <br />
 
-<details>
+<!--details>
   <summary><strong>🔄 Traductor | Translate</strong></summary>
   <br />
   <div align="center">
@@ -95,6 +95,6 @@
       <img src="https://github.com/GbrlSouza/dev-achievements/raw/main/badges/truqueiro-do-codigo.png" alt="Truqueiro do Código" width="100px" />
     <br />
   </div>
-</details>
+</details-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
