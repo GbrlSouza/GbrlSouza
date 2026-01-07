@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Gabriel;Full+Stack+Dev+and+QA+Analyst;From+Campinas,+S%C3%A3o+Paulo,+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Gabriel;Full+Stack+Dev;From+Campinas,+S%C3%A3o+Paulo,+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=javascript,typescript,bootstrap,tailwind,vue,cypress"/> </a></div>
 <div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,php,python,mysql"/> </a></div>
