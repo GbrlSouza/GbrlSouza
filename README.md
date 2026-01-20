@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=20&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Gabriel;Full+Stack+Dev;From+Campinas,+S%C3%A3o+Paulo,+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=devto,javascript,typescript,bootstrap,tailwind,vue,cypress"/> </a></div>
+<div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,javascript,typescript,bootstrap,tailwind,vue,cypress"/> </a></div>
 <div align="center" ><a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,php,python,mysql"/> </a></div>
 
 <div align="center" style="display: inline_block"><br />
