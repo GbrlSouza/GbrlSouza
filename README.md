@@ -12,6 +12,12 @@
 
 <br />
 
+<div align="center">
+  <a href="https://open.spotify.com/user/Gabs">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31b7dhttjggmrxctm763hyvv5sjy" alt="Spotify recently played"  />
+  </a>
+</div>
+
 <!--details>
   <summary><strong>🔄 Traductor | Translate</strong></summary>
   <br />
@@ -75,6 +81,12 @@
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GbrlSouza/GbrlSouza/output/github-contribution-grid-snake-dark.svg">
       <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GbrlSouza/GbrlSouza/output/github-contribution-grid-snake.svg">
     </picture>
+
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GbrlSouza/GbrlSouza/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GbrlSouza/GbrlSouza/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GbrlSouza/GbrlSouza/output/pacman-contribution-graph.svg">
+    </picture>Ï
   </div>
 </details>
 
