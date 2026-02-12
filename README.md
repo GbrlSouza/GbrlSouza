@@ -12,11 +12,11 @@
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/Gabs">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31b7dhttjggmrxctm763hyvv5sjy" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
 
 <!--details>
   <summary><strong>🔄 Traductor | Translate</strong></summary>
